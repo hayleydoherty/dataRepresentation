@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Library>
+	<Technical Library>
+		<book>
+			<ISBN>135-558792372</ISBN>
+			<Title>Data Representation</Title>
+			<Author>Terry McAndrews</Author>
+		</book>
+		<book>
+			<ISBN>194-259974961</ISBN>
+			<Title>Representing and Querying Data</Title>
+			<Author>Eileen Duddy</Author>
+		</book>
+	</Technical Library>
+	
+	<Cooking Library>
+		<book>
+			<ISBN>225-598326415</ISBN>
+			<Title>Perfect Bakes</Title>
+			<Author>Mary Berry</Author>
+		</book>
+		<book>
+			<ISBN>238-697725415</ISBN>
+			<Title>Cooking with Jamie</Title>
+			<Author>Jamie Oliver</Author>
+		</book>
+
+
+	</Cooking Library>
+
+</Library>
